@@ -1,3 +1,4 @@
 # React + TypeScript + Vite
 
-deploy: interactive-map-new-phi.vercel.app
+**Live demo:** [interactive-map](https://interactive-map-new-phi.vercel.app)
+
