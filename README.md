@@ -1,3 +1,3 @@
 # React + TypeScript + Vite
 
-deploy: https://interactive-map-979aa.web.app/
+deploy: interactive-map-new-phi.vercel.app
