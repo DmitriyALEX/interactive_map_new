@@ -1,0 +1,17 @@
+.main_container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+.header {
+  position: absolute;
+  top: 16px;
+  left: 64px;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+.select_container {
+  pointer-events: auto;
+}
